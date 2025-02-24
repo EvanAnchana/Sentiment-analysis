@@ -8,5 +8,7 @@ Sentiment_Analysis.ipynb: A Jupyter Notebook containing the code for data prepro
 
 Features: 
 Data Preprocessing: Cleaning and preparing text data for analysis.
+
 Model Building: Training machine learning models for sentiment classification.
+
 Evaluation: Assessing model performance using appropriate metrics.
